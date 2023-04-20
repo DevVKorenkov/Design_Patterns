@@ -1,5 +1,5 @@
-﻿using Abstract_Facory.Example;
-using Abstract_Facory.Example.Factories;
+﻿using Abstract_Factory.Example;
+using Abstract_Factory.Example.Factories;
 
 public class Programm
 {

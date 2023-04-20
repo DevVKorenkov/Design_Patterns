@@ -1,6 +1,6 @@
-﻿using Abstract_Facory.Example.Move.Abstract;
+﻿using Abstract_Factory.Example.Move.Abstract;
 
-namespace Abstract_Facory.Example.Move;
+namespace Abstract_Factory.Example.Move;
 
 public class FlyMove : Movement
 {

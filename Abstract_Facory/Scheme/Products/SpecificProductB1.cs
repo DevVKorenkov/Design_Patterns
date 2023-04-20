@@ -1,6 +1,6 @@
-﻿using Abstract_Facory.Scheme.Products.Abstract;
+﻿using Abstract_Factory.Scheme.Products.Abstract;
 
-namespace Abstract_Facory.Scheme.Products;
+namespace Abstract_Factory.Scheme.Products;
 
 public class SpecificProductB1 : ProductB
 {

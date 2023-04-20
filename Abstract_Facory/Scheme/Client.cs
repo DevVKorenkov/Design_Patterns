@@ -1,7 +1,7 @@
-﻿using Abstract_Facory.Scheme.Factories.Abstract;
-using Abstract_Facory.Scheme.Products.Abstract;
+﻿using Abstract_Factory.Scheme.Factories.Abstract;
+using Abstract_Factory.Scheme.Products.Abstract;
 
-namespace Abstract_Facory.Scheme;
+namespace Abstract_Factory.Scheme;
 
 public class Client
 {

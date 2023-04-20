@@ -1,4 +1,4 @@
-﻿namespace Abstract_Facory.Example.Weapons.Abstract;
+﻿namespace Abstract_Factory.Example.Weapons.Abstract;
 
 public abstract class Weapon
 {

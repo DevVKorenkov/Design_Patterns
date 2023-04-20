@@ -5,7 +5,7 @@ VisualStudioVersion = 17.5.33516.290
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Factory_Method", "Factory_Method\Factory_Method.csproj", "{C9331D98-C90D-442C-B763-877F4ECFD96E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Abstract_Facory", "Abstract_Facory\Abstract_Facory.csproj", "{B39D9416-149B-4AFA-8DDC-22BC798E184A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Abstract_Factory", "Abstract_Facory\Abstract_Factory.csproj", "{B39D9416-149B-4AFA-8DDC-22BC798E184A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

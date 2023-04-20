@@ -1,8 +1,8 @@
-﻿using Abstract_Facory.Scheme.Factories.Abstract;
-using Abstract_Facory.Scheme.Products;
-using Abstract_Facory.Scheme.Products.Abstract;
+﻿using Abstract_Factory.Scheme.Factories.Abstract;
+using Abstract_Factory.Scheme.Products;
+using Abstract_Factory.Scheme.Products.Abstract;
 
-namespace Abstract_Facory.Scheme.Factories;
+namespace Abstract_Factory.Scheme.Factories;
 
 public class SpecificFactory1 : Factory
 {

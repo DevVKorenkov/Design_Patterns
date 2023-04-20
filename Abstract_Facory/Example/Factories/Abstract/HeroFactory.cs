@@ -1,7 +1,7 @@
-﻿using Abstract_Facory.Example.Move.Abstract;
-using Abstract_Facory.Example.Weapons.Abstract;
+﻿using Abstract_Factory.Example.Move.Abstract;
+using Abstract_Factory.Example.Weapons.Abstract;
 
-namespace Abstract_Facory.Example.Factories.Abstract;
+namespace Abstract_Factory.Example.Factories.Abstract;
 
 public abstract class HeroFactory
 {

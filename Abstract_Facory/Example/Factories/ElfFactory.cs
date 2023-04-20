@@ -1,10 +1,10 @@
-﻿using Abstract_Facory.Example.Factories.Abstract;
-using Abstract_Facory.Example.Move;
-using Abstract_Facory.Example.Move.Abstract;
-using Abstract_Facory.Example.Weapons;
-using Abstract_Facory.Example.Weapons.Abstract;
+﻿using Abstract_Factory.Example.Move;
+using Abstract_Factory.Example.Factories.Abstract;
+using Abstract_Factory.Example.Move.Abstract;
+using Abstract_Factory.Example.Weapons;
+using Abstract_Factory.Example.Weapons.Abstract;
 
-namespace Abstract_Facory.Example.Factories;
+namespace Abstract_Factory.Example.Factories;
 
 public class ElfFactory : HeroFactory
 {

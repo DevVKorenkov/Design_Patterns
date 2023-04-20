@@ -1,6 +1,6 @@
-﻿using Abstract_Facory.Scheme.Products.Abstract;
+﻿using Abstract_Factory.Scheme.Products.Abstract;
 
-namespace Abstract_Facory.Scheme.Factories.Abstract;
+namespace Abstract_Factory.Scheme.Factories.Abstract;
 
 public abstract class Factory
 {

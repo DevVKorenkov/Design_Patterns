@@ -1,4 +1,4 @@
-﻿namespace Abstract_Facory.Example.Move.Abstract;
+﻿namespace Abstract_Factory.Example.Move.Abstract;
 
 public abstract class Movement
 {

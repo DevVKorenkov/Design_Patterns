@@ -1,4 +1,4 @@
-﻿namespace Abstract_Facory.Scheme.Products.Abstract;
+﻿namespace Abstract_Factory.Scheme.Products.Abstract;
 
 public abstract class ProductA
 {

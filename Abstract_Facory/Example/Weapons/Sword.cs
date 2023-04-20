@@ -1,6 +1,6 @@
-﻿using Abstract_Facory.Example.Weapons.Abstract;
+﻿using Abstract_Factory.Example.Weapons.Abstract;
 
-namespace Abstract_Facory.Example.Weapons;
+namespace Abstract_Factory.Example.Weapons;
 
 internal class Sword : Weapon
 {
