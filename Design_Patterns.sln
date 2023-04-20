@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Singleton", "Singleton\Sing
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Protorype", "Protorype\Protorype.csproj", "{E1F5A636-A093-4602-9251-432A3A6440E4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Builder", "Builder\Builder.csproj", "{DEFC17C6-BE4A-4C22-944A-139ABA8EDC23}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{E1F5A636-A093-4602-9251-432A3A6440E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E1F5A636-A093-4602-9251-432A3A6440E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E1F5A636-A093-4602-9251-432A3A6440E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DEFC17C6-BE4A-4C22-944A-139ABA8EDC23}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEFC17C6-BE4A-4C22-944A-139ABA8EDC23}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEFC17C6-BE4A-4C22-944A-139ABA8EDC23}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEFC17C6-BE4A-4C22-944A-139ABA8EDC23}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
