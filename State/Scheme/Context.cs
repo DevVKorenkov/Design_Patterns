@@ -11,7 +11,7 @@ public class Context
         State = state;
     }
 
-    public void Requert()
+    public void Request()
     {
         State.Handle(this);
     }

@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Iterator", "Iterator\Iterat
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "State", "State\State.csproj", "{30F0D76B-1971-446C-A1ED-08694BE4DDBA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chain_of_responsibility", "Chain_of_responsibility\Chain_of_responsibility.csproj", "{CBB87456-7A30-4BF5-B50B-69DC1F1F8E4C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -79,6 +81,10 @@ Global
 		{30F0D76B-1971-446C-A1ED-08694BE4DDBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{30F0D76B-1971-446C-A1ED-08694BE4DDBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{30F0D76B-1971-446C-A1ED-08694BE4DDBA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CBB87456-7A30-4BF5-B50B-69DC1F1F8E4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBB87456-7A30-4BF5-B50B-69DC1F1F8E4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBB87456-7A30-4BF5-B50B-69DC1F1F8E4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBB87456-7A30-4BF5-B50B-69DC1F1F8E4C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -98,5 +104,6 @@ Global
 		{23F834EF-4ABC-4101-8375-9519C1F3FC25} = {A9255863-D25B-4A42-8577-F768A9D45290}
 		{06B33C35-A39B-4271-93A2-22EA583CC787} = {A9255863-D25B-4A42-8577-F768A9D45290}
 		{30F0D76B-1971-446C-A1ED-08694BE4DDBA} = {A9255863-D25B-4A42-8577-F768A9D45290}
+		{CBB87456-7A30-4BF5-B50B-69DC1F1F8E4C} = {A9255863-D25B-4A42-8577-F768A9D45290}
 	EndGlobalSection
 EndGlobal
