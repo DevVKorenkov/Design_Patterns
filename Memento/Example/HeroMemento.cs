@@ -1,5 +1,8 @@
 ﻿namespace Memento.Example;
 
+/// <summary>
+/// Memento
+/// </summary>
 public class HeroMemento
 {
     public int Ammunition { get; private set; }

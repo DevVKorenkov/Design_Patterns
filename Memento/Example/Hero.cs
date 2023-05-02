@@ -1,5 +1,8 @@
 ﻿namespace Memento.Example;
 
+/// <summary>
+/// Originator
+/// </summary>
 public class Hero
 {
     private int _ammunition;
