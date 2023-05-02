@@ -1,5 +1,4 @@
 ﻿using Mediator.Example.Mediators;
-using Mediator.Example.Mediators.Abstraction;
 using Mediator.Example.Members;
 
 public class Program
