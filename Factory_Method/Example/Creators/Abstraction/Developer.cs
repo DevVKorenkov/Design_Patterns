@@ -2,6 +2,9 @@
 
 namespace Factory_Method.Example.Creators.Abstraction;
 
+/// <summary>
+/// As an abstract creator
+/// </summary>
 public abstract class Developer
 {
     private string _name;

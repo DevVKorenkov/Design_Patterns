@@ -3,6 +3,9 @@ using Builder.Scheme.Products;
 
 namespace Builder.Scheme.Builders;
 
+/// <summary>
+/// Certain object implementation to be created
+/// </summary>
 public class SpecificBuilder : IBuilder
 {
     Product product = new Product();

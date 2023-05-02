@@ -1,7 +1,10 @@
-﻿using Protorype.Example.Abstract;
+﻿using Prototype.Example.Abstract;
 
-namespace Protorype.Example.Figures;
+namespace Prototype.Example.Figures;
 
+/// <summary>
+/// As a certain object
+/// </summary>
 public class Circle : IFigure
 {
     private int _radius;

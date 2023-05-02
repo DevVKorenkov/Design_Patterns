@@ -4,6 +4,9 @@ using Factory_Method.Example.Products.Abstraction;
 
 namespace Factory_Method.Example.Creators;
 
+/// <summary>
+/// As a certain creator
+/// </summary>
 public class WoodHouseDeveloper : Developer
 {
     public WoodHouseDeveloper(string name) : base(name)

@@ -1,6 +1,6 @@
-﻿using Protorype.Example.Abstract;
-using Protorype.Example.Figures;
-using Protorype.Example.MemberwiseCloneExample.Figures;
+﻿using Prototype.Example.Abstract;
+using Prototype.Example.Figures;
+using Prototype.Example.MemberwiseCloneExample.Figures;
 
 public class Programm
 {

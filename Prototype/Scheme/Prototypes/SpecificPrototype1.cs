@@ -1,7 +1,10 @@
-﻿using Protorype.Scheme.Abstract;
+﻿using Prototype.Scheme.Abstract;
 
-namespace Protorype.Scheme.Prototypes;
+namespace Prototype.Scheme.Prototypes;
 
+/// <summary>
+/// Certain object
+/// </summary>
 public class SpecificPrototype1 : IPrototype
 {
     public IPrototype Clone()

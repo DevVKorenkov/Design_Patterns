@@ -2,6 +2,9 @@
 
 namespace Abstract_Factory.Scheme.Products;
 
+/// <summary>
+/// Some certain object implementation to be created
+/// </summary>
 internal class SpecificProductB2 : ProductB
 {
 }

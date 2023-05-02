@@ -6,6 +6,9 @@ using Abstract_Factory.Example.Weapons.Abstract;
 
 namespace Abstract_Factory.Example.Factories;
 
+/// <summary>
+/// As a certain factory
+/// </summary>
 public class ElfFactory : HeroFactory
 {
     public override Movement CreateMovement()

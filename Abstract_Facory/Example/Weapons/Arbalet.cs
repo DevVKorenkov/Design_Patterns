@@ -2,6 +2,9 @@
 
 namespace Abstract_Factory.Example.Weapons;
 
+/// <summary>
+/// As a certain product
+/// </summary>
 internal class Arbalet : Weapon
 {
     public override void Hit()

@@ -1,21 +1,19 @@
-﻿using Protorype.Example.Abstract;
-using System.Runtime.Serialization.Formatters.Binary;
+﻿using System.Runtime.Serialization.Formatters.Binary;
 using System.Runtime.Serialization;
+using Prototype.Example.Abstract;
 
-namespace Protorype.Example.MemberwiseCloneExample.Figures;
+namespace Prototype.Example.MemberwiseCloneExample.Figures;
 
 [Serializable]
-public class RectangleMemberwiseClone : IFigure
+public class CircleMemberwiseClone : IFigure
 {
-    private int _width;
-    private int _height;
+    private int _radius;
     private Point _point;
 
-    public RectangleMemberwiseClone(int w, int h, int x, int y)
+    public CircleMemberwiseClone(int r, int x, int y)
     {
-        _width = w;
-        _height = h;
-        _point = new Point { X = x, Y = y };
+        _radius = r;
+        _point = new Point { Y = y, X = x };
     }
 
     public IFigure Clone()
@@ -41,6 +39,6 @@ public class RectangleMemberwiseClone : IFigure
 
     public void GetInfo()
     {
-        Console.WriteLine($"This rectangle has width {_width} and height {_height}, center is in the point x = {_point.X}, y = {_point.Y}");
+        Console.WriteLine($"This circle has radius {_radius}, center is in the point x = {_point.X}, y = {_point.Y}");
     }
 }

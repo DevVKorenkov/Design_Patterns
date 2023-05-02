@@ -12,7 +12,7 @@ public class Car
 
     public Car(int passengers, string model, IEngine engine)
     {
-        this.passengers = this.passengers;
+        this.passengers = passengers;
         this.model = model;
         Engine = engine;
     }

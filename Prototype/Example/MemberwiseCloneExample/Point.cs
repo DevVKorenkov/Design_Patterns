@@ -1,4 +1,4 @@
-﻿namespace Protorype.Example.MemberwiseCloneExample;
+﻿namespace Prototype.Example.MemberwiseCloneExample;
 
 [Serializable]
 public class Point

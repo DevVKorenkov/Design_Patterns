@@ -3,6 +3,9 @@ using Builder.Example.Models;
 
 namespace Builder.Example.Builders;
 
+/// <summary>
+/// As a certain implementation of builder
+/// </summary>
 public class WheatBreadBuilder : IBreadBuilder
 {
     public Bread Bread { get; set; }

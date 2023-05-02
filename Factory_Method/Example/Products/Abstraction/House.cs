@@ -1,5 +1,8 @@
 ﻿namespace Factory_Method.Example.Products.Abstraction;
 
+/// <summary>
+/// As an abstract product
+/// </summary>
 public abstract class House
 {
     private int _floorCount;

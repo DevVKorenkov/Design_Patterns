@@ -2,6 +2,9 @@
 
 namespace Builder.Example.Builders.Abstraction;
 
+/// <summary>
+/// as a builder
+/// </summary>
 public interface IBreadBuilder
 {
     Bread Bread { get; set; }

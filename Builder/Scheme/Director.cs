@@ -2,6 +2,9 @@
 
 namespace Builder.Scheme;
 
+/// <summary>
+/// Disposer - makes an object, using builder objects 
+/// </summary>
 public class Director
 {
     private readonly IBuilder _builder;

@@ -4,6 +4,9 @@ using Abstract_Factory.Example.Weapons.Abstract;
 
 namespace Abstract_Factory.Example;
 
+/// <summary>
+/// Like a client
+/// </summary>
 public class Hero
 {
     private Weapon _weapon;

@@ -1,7 +1,7 @@
-﻿using Protorype.Scheme.Abstract;
-using Protorype.Scheme.Prototypes;
+﻿using Prototype.Scheme.Abstract;
+using Prototype.Scheme.Prototypes;
 
-namespace Protorype.Scheme;
+namespace Prototype.Scheme;
 
 public class Client
 {
