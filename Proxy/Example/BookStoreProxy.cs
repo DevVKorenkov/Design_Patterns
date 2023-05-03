@@ -13,7 +13,7 @@ public class BookStoreProxy : IBook
         _pages = new List<Page>();
     }
     
-    public Page GetPages(int number)
+    public Page GetPage(int number)
     {
         var page = _pages.FirstOrDefault(p => p.Number == number);
         if (page is null)
@@ -23,7 +23,7 @@ public class BookStoreProxy : IBook
                 _bookStore = new BookStore();
             }
 
-            page = _bookStore.GetPages(number);
+            page = _bookStore.GetPage(number);
             _pages.Add(page);
         }
 

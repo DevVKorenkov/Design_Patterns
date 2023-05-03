@@ -9,7 +9,7 @@ public class BookStore : IBook
 {
     private PageContext _db;
     
-    public Page GetPages(int number)
+    public Page GetPage(int number)
     {
         return _db.Pages.FirstOrDefault(p => p.Number == number);
     }

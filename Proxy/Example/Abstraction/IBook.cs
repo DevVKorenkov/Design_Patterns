@@ -4,5 +4,5 @@ namespace Proxy.Example.Abstraction;
 
 public interface IBook : IDisposable
 {
-    Page GetPages(int number);
+    Page GetPage(int number);
 }
