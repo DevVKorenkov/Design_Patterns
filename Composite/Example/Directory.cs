@@ -2,6 +2,9 @@
 
 namespace Composite.Example;
 
+/// <summary>
+/// As a component which can contain other components
+/// </summary>
 public class Directory : Component
 {
     private List<Component> _children;

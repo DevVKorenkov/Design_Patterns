@@ -1,5 +1,8 @@
 ﻿namespace Composite.Example.Abstraction;
 
+/// <summary>
+/// As an abstract component
+/// </summary>
 public abstract class Component : IItem
 {
     public string Name { get; }
