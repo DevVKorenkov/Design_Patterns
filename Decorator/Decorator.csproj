@@ -8,8 +8,7 @@
     </PropertyGroup>
 
     <ItemGroup>
-      <Folder Include="Example\" />
-      <Folder Include="Scheme\" />
+      <Folder Include="Scheme\Components\Abstract\" />
     </ItemGroup>
 
 </Project>
