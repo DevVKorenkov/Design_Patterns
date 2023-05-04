@@ -63,6 +63,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Open_Closed_Principle", "Op
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interface_Segregation_Principle", "Interface_Segregation_Principle\Interface_Segregation_Principle.csproj", "{63918EF6-4A0F-4ADA-A689-2F3376B3770F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dependency_Inversion_Principle", "Dependency_Inversion_Principle\Dependency_Inversion_Principle.csproj", "{5C20D89C-A32E-4184-9B18-570E86CED2A2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -173,6 +175,10 @@ Global
 		{63918EF6-4A0F-4ADA-A689-2F3376B3770F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{63918EF6-4A0F-4ADA-A689-2F3376B3770F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{63918EF6-4A0F-4ADA-A689-2F3376B3770F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C20D89C-A32E-4184-9B18-570E86CED2A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C20D89C-A32E-4184-9B18-570E86CED2A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C20D89C-A32E-4184-9B18-570E86CED2A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C20D89C-A32E-4184-9B18-570E86CED2A2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -207,5 +213,6 @@ Global
 		{29248F11-90AC-4EEE-A20C-4A163E523225} = {DA4DE65A-8C39-4995-9AF7-DFF3ECC2443F}
 		{3D231966-8BA6-4385-AE73-FE8DDF594B33} = {DA4DE65A-8C39-4995-9AF7-DFF3ECC2443F}
 		{63918EF6-4A0F-4ADA-A689-2F3376B3770F} = {DA4DE65A-8C39-4995-9AF7-DFF3ECC2443F}
+		{5C20D89C-A32E-4184-9B18-570E86CED2A2} = {DA4DE65A-8C39-4995-9AF7-DFF3ECC2443F}
 	EndGlobalSection
 EndGlobal
