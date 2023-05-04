@@ -59,6 +59,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SOLID", "SOLID", "{DA4DE65A
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Single_Responsibility_Principle", "Single_Responsibility_Principle\Single_Responsibility_Principle.csproj", "{29248F11-90AC-4EEE-A20C-4A163E523225}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Open_Closed_Principle", "Open_Closed_Principle\Open_Closed_Principle.csproj", "{3D231966-8BA6-4385-AE73-FE8DDF594B33}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interface_Segregation_Principle", "Interface_Segregation_Principle\Interface_Segregation_Principle.csproj", "{63918EF6-4A0F-4ADA-A689-2F3376B3770F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -161,6 +165,14 @@ Global
 		{29248F11-90AC-4EEE-A20C-4A163E523225}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{29248F11-90AC-4EEE-A20C-4A163E523225}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{29248F11-90AC-4EEE-A20C-4A163E523225}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D231966-8BA6-4385-AE73-FE8DDF594B33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D231966-8BA6-4385-AE73-FE8DDF594B33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D231966-8BA6-4385-AE73-FE8DDF594B33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D231966-8BA6-4385-AE73-FE8DDF594B33}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63918EF6-4A0F-4ADA-A689-2F3376B3770F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63918EF6-4A0F-4ADA-A689-2F3376B3770F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63918EF6-4A0F-4ADA-A689-2F3376B3770F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63918EF6-4A0F-4ADA-A689-2F3376B3770F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -193,5 +205,7 @@ Global
 		{212C31C0-322E-4121-94CE-9431190A0187} = {4AC15C9A-1715-426B-90A1-4D1614E60DBA}
 		{6C3737B7-1BE5-45F7-9069-4D6C1C881E36} = {4AC15C9A-1715-426B-90A1-4D1614E60DBA}
 		{29248F11-90AC-4EEE-A20C-4A163E523225} = {DA4DE65A-8C39-4995-9AF7-DFF3ECC2443F}
+		{3D231966-8BA6-4385-AE73-FE8DDF594B33} = {DA4DE65A-8C39-4995-9AF7-DFF3ECC2443F}
+		{63918EF6-4A0F-4ADA-A689-2F3376B3770F} = {DA4DE65A-8C39-4995-9AF7-DFF3ECC2443F}
 	EndGlobalSection
 EndGlobal
