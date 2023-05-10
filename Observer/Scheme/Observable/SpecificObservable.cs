@@ -3,6 +3,9 @@ using Observer.Scheme.Observers.Abstraction;
 
 namespace Observer.Scheme.Observable;
 
+/// <summary>
+/// A certain implementation of IObservable 
+/// </summary>
 public class SpecificObservable : IObservable
 {
     public ICollection<IObserver> Observers { get; set; }

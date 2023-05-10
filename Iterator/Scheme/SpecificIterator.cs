@@ -2,6 +2,9 @@
 
 namespace Iterator.Scheme;
 
+/// <summary>
+///  Define specific implementation of the iterator for detouring the aggregate object.
+/// </summary>
 public class SpecificIterator : IIterator
 {
     private readonly IAggregate _aggregate;

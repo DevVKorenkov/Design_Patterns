@@ -4,7 +4,7 @@ namespace Decorator.Scheme.Decorators.Abstraction;
 
 /// <summary>
 /// defines Decorator which inherits a component functionality.
-/// Also it keeps the link to base component to be decorated.
+/// Also it keeps the reference to the base component to be decorated.
 /// </summary>
 public abstract class AbstractDecorator : IComponent
 {

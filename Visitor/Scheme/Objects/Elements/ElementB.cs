@@ -4,7 +4,7 @@ using Visitor.Scheme.Visitors.Abstraction;
 namespace Visitor.Scheme.Objects.Elements;
 
 /// <summary>
-/// certain element which implements Accept method
+/// A certain element which implements Accept method
 /// </summary>
 public class ElementB : IElement
 {

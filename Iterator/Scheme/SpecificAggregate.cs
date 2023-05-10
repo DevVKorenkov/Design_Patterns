@@ -3,6 +3,9 @@ using Iterator.Scheme.Abstraction;
 
 namespace Iterator.Scheme;
 
+/// <summary>
+/// Specific implementation of the aggregator. It keeps objects to be iterated.
+/// </summary>
 public class SpecificAggregate : IAggregate
 {
     private readonly ArrayList _item = new ArrayList();

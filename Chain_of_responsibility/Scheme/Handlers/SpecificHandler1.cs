@@ -2,6 +2,9 @@
 
 namespace Chain_of_responsibility.Scheme.Handlers;
 
+/// <summary>
+/// certain implementation of the abstract handler. Contains specific actions for request processing.
+/// </summary>
 public class SpecificHandler1 : IHandler
 {
     public IHandler Successor { get; set; }

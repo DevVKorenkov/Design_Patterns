@@ -2,6 +2,9 @@
 
 namespace Mediator.Scheme.Objects.Abstractions;
 
+/// <summary>
+/// Defines the interface for interacting with mediator object
+/// </summary>
 public abstract class AbstractObject
 {
     protected IMediator mediator;

@@ -2,6 +2,9 @@
 
 namespace Observer.Scheme.Observable.Abstraction;
 
+/// <summary>
+/// Defines an observable object. 
+/// </summary>
 public interface IObservable
 {
     ICollection<IObserver> Observers { get; set; } 

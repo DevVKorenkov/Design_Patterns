@@ -4,7 +4,7 @@ using Visitor.Scheme.Visitors.Abstraction;
 namespace Visitor.Scheme.Visitors;
 
 /// <summary>
-/// Сertain visitor which implements Visitor method
+/// A certain visitor which implements Visitor method
 /// </summary>
 public class SpecificVisitor1 : IVisitor
 {

@@ -3,6 +3,9 @@ using Mediator.Scheme.Objects.Abstractions;
 
 namespace Mediator.Scheme.Objects;
 
+/// <summary>
+/// A certain AbstractObject implementation
+/// </summary>
 public class SpecificObject : AbstractObject
 {
     public SpecificObject(IMediator mediator) : base(mediator)

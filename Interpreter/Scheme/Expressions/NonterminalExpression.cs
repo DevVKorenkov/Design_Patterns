@@ -2,6 +2,10 @@
 
 namespace Interpreter.Scheme.Expressions;
 
+/// <summary>
+/// A non terminal expression, defines a grammar rule.
+/// For each grammar rule its own NonterminalExpression object is created.
+/// </summary>
 public class NonterminalExpression : IExpression
 {
     private IExpression _expression1;

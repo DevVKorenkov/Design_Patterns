@@ -3,7 +3,7 @@
 namespace Visitor.Scheme.Objects.Elements.Abstraction;
 
 /// <summary>
-/// Element's interface defines Accept method which takes a visitor as a parameter.  
+/// Element's interface defines an Accept method which takes a visitor as a parameter.  
 /// </summary>
 public interface IElement
 {

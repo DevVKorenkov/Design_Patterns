@@ -1,7 +1,7 @@
 ﻿namespace Bridge.Scheme.Abstraction;
 
 /// <summary>
-/// Defines the base interface and keeps reference to Implementor object.
+/// Defines the base interface and keeps reference to Implementor's object.
 /// Operation execution is delegated to Implementor's methods
 /// </summary>
 public abstract class CommonAbstraction

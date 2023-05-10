@@ -2,6 +2,12 @@
 
 namespace Flyweight.Scheme.Flyweight;
 
+/// <summary>
+/// Creates separated flyweights. Because flyweights are separated
+/// a client doesn’t have to create by itself.
+/// All created objects are saved in the objects pool.
+/// If a required flyweight doesn’t exist the factory creates it.
+/// </summary>
 public class FlyweightFactory
 {
     private Hashtable flyweights = new Hashtable();

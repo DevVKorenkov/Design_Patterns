@@ -3,6 +3,9 @@ using Chain_of_responsibility.Scheme.Handlers;
 
 namespace Chain_of_responsibility.Scheme;
 
+/// <summary>
+/// Sends the request to the handler object
+/// </summary>
 public class Client
 {
     void MakeRequest()

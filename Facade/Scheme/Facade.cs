@@ -3,7 +3,7 @@
 namespace Facade.Scheme;
 
 /// <summary>
-/// A facade which provides the interface to client 
+/// A facade which provides the interface to the client 
 /// </summary>
 public class Facade
 {

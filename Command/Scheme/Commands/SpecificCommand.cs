@@ -3,6 +3,9 @@ using Command.Scheme.Invoke;
 
 namespace Command.Scheme.Commands;
 
+/// <summary>
+/// Certain command
+/// </summary>
 public class SpecificCommand : ICommand
 {
     private Receiver _receiver;

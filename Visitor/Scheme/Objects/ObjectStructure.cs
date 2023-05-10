@@ -4,7 +4,7 @@ using Visitor.Scheme.Visitors.Abstraction;
 namespace Visitor.Scheme.Objects;
 
 /// <summary>
-/// Some structure which stores IElement objects and provides the access to them.
+/// Some structure which stores IElement objects and provides access to them.
 /// </summary>
 public class ObjectStructure
 {

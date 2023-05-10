@@ -3,6 +3,9 @@ using Command.Scheme.Invoke;
 
 namespace Command.Scheme;
 
+/// <summary>
+/// Creates a command and sets the receiver. Usually by the “SetCommand” method
+/// </summary>
 public class Client
 {
     public void Proceed()

@@ -3,7 +3,7 @@
 namespace Decorator.Scheme.Decorators;
 
 /// <summary>
-/// Defines extra functionality for base object
+/// Defines extra functionality for the base object
 /// </summary>
 public class SpecificDecoratorA : AbstractDecorator
 {
