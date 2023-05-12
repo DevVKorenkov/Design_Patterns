@@ -13,7 +13,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Prototype", "Prototype\Prot
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Builder", "Builder\Builder.csproj", "{DEFC17C6-BE4A-4C22-944A-139ABA8EDC23}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Generative_Patterns", "Generative_Patterns", "{CA9B6C07-EAB5-4D89-ABF6-C041292618E5}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Creational_Patterns", "Creational_Patterns", "{CA9B6C07-EAB5-4D89-ABF6-C041292618E5}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Behavior_Patterns", "Behavior_Patterns", "{A9255863-D25B-4A42-8577-F768A9D45290}"
 EndProject
